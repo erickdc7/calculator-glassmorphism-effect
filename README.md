@@ -1,4 +1,4 @@
 # Calculator With JavaScript 
-### This design belongs to [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT), you can see the video [here](https://youtu.be/NhcZh8Bwr30).
+### This design is inspired by the work of [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT). Click [here](https://youtu.be/NhcZh8Bwr30) to watch the video.
 
 ![preview img](/preview.jpeg)
